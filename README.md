@@ -1,11 +1,11 @@
 Welcome to my Github!!!👩‍💻
 
-👋 Hi, I’m Phan Nguyen Yen Nhi (Stella)
-🌱 I’m currently learning to become a skilled  Business Analyst
-🎯 Career Goal: To become a Business Analyst
-💞️ I’m looking to collaborate on projects related to  Business Analyst
-📫 You can reach me through Email or LinkedIn links bellow.
-😄 Fun fact: I love traveling and exploring new cultures. 🌏
+👋 Hi, I’m Phan Nguyen Yen Nhi (Stella) 
+🌱 I’m currently learning to become a skilled Business Analyst. 
+🎯 Career Goal: To become a Business Analyst. 
+💞️ I’m looking to collaborate on projects related to  Business Analyst. 
+📫 You can reach me through Email or LinkedIn links bellow. 
+😄 Fun fact: I love traveling and exploring new cultures. 🌏 
 
 <!--
 **NhiPNY/NhiPNY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
